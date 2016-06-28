@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<collage version="2" format="16:9" orientation="landscape" theme="picturepile" shadows="1" captions="1" albumUID="7570cb6cd1c2f0fe943697744f36f042">
+ <albumTitle>Последние обновленные</albumTitle>
+ <albumDate>Май 2014</albumDate>
+ <background type="solid" color="FFFFFFFF"/>
+ <spacing value="0.000000"/>
+ <node x="0.235675" y="0.417155" w="0.362177" h="0.482318" theta="0.000000" scale="370.869568">
+  <theme>noborder</theme>
+  <src>$Desktop\TcIoJquxm3w.jpg</src>
+  <uid>ac20349fa13596930000000000000000</uid>
+ </node>
+ <node x="0.416371" y="0.011732" w="0.183932" h="0.484032" theta="6.283185" scale="278.802185">
+  <theme>noborder</theme>
+  <src>$Desktop\Sqquphjqv5s.jpg</src>
+  <uid>15ef69d10eaa33ea0000000000000000</uid>
+ </node>
+ <node x="0.063333" y="-0.095728" w="0.389109" h="0.415049" theta="6.283185" scale="398.447479">
+  <theme>noborder</theme>
+  <src>$Desktop\f5vDKeidTnQ.jpg</src>
+  <uid>7e9376b19b8734780000000000000000</uid>
+ </node>
+</collage>
